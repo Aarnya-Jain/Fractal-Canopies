@@ -6,12 +6,12 @@ Version - 1.0
 <center>
 
 - LEFT ANGLE + 20
-- RIGHT ANGLE - 20
+- RIGHT ANGLE - 33
 
 <img width="955" height="689" alt="Image" src="https://github.com/user-attachments/assets/19c19747-61d9-40c9-b509-fb2147d183e8" />
 
 - LEFT ANGLE + 20
-- RIGHT ANGLE - 33
+- RIGHT ANGLE - 20
 
 <img width="955" height="689" alt="Image" src="https://github.com/user-attachments/assets/77a225ce-7fee-4bc9-bfcf-1964fb631d11" />
 </center>
